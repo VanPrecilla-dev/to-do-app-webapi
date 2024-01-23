@@ -1,0 +1,25 @@
+.btnUI {
+
+  position: fixed;  
+  width: 4vw;
+  height: 3wh;
+  bottom: 20px;
+  right: 5vw;
+  z-index: 99;
+  border: none;
+  outline: none;
+  background-color: red;
+  color: white;
+  cursor: pointer;
+  padding: .5vw;
+  border-radius: 50px;
+  }
+
+
+  .btnUI:hover {
+    background-color: gray;
+  }
+
+  .icon {
+   width: 2vw;
+  }
