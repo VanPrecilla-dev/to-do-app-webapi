@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/to-do-app-webapi/static/css/main.6a72c623.css",
+    "main.js": "/to-do-app-webapi/static/js/main.9378aa16.js",
+    "static/js/787.223af0c4.chunk.js": "/to-do-app-webapi/static/js/787.223af0c4.chunk.js",
+    "index.html": "/to-do-app-webapi/index.html",
+    "main.6a72c623.css.map": "/to-do-app-webapi/static/css/main.6a72c623.css.map",
+    "main.9378aa16.js.map": "/to-do-app-webapi/static/js/main.9378aa16.js.map",
+    "787.223af0c4.chunk.js.map": "/to-do-app-webapi/static/js/787.223af0c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a72c623.css",
+    "static/js/main.9378aa16.js"
+  ]
+}
