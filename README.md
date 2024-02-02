@@ -1,7 +1,8 @@
-# to-do-app-webapi
-Simple To-Do-App using ReactJS, JavaScript, HTML, CSS &amp; Bootstrap with WebAPIs  (use json placeholder)
+# To-Do-App-WebAPI designed and coded by Van
 
-CLICK HERE FOR THE LIVE DEMO OF THE APP: https://vanprecilla-dev.github.io/to-do-app-webapi/ 
+**Simple To-Do-App using ReactJS, JavaScript, HTML, CSS and Bootstrap with WebAPIs  (using json placeholder)**
+
+**CLICK HERE FOR THE LIVE DEMO OF THE APP: https://vanprecilla-dev.github.io/to-do-app-webapi/ **
 
 See Master Branch for the codes.
 
