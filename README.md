@@ -16,6 +16,7 @@ Key Features:
 - Stylish and responsive design with Bootstrap and custom CSS.
 - Seamless integration with Web APIs for a dynamic user experience.
 - Use json placeholder
+- Designed by me(Van) but look-up online for reference
   
 Technologies Used:
 -ReactJS
@@ -36,3 +37,11 @@ Contributing:
 If you would like to contribute to this project, please follow our Contribution Guidelines.
 
 Thanks & Happy Coding - Van
+
+DEKSTOP VIEW
+![image](https://github.com/VanPrecilla-dev/to-do-app-webapi/assets/130641225/d5ea5ba7-8a77-44e3-b924-965e4196e250)
+
+MOBILE VIEW
+![image](https://github.com/VanPrecilla-dev/to-do-app-webapi/assets/130641225/335ba0ce-bc87-4596-9a28-049f527ca122)
+
+
